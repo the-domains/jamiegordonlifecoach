@@ -1,0 +1,28 @@
+name: JamieGordonLifeCoach
+favicon: null
+layout_spectrum: 0.4312381334602833
+typography_spectrum: 0.02237973758019507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8760094323661178
+  lightness: 0.28360758954659104
+  saturation: 0.4643851586151868
+  rhythmicContrast: 0.525389141170308
+purpose: []
