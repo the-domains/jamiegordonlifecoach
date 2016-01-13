@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Learn how to master every area of your life, from heath to fitness to your own personal and professional goals.'
-datePublished: '2016-01-12T15:09:23.610Z'
-dateModified: '2016-01-12T15:09:05.644Z'
+datePublished: '2016-01-13T15:16:51.720Z'
+dateModified: '2016-01-13T15:16:30.325Z'
 title: Jamie Gordon - Certified Life Coach
 author: []
+sourcePath: _posts/2016-01-12-jamie-gordon-certified-life-coach.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-12-jamie-gordon-certified-life-coach.md
-published: true
 url: jamie-gordon-certified-life-coach/index.html
 _type: Article
 
@@ -25,6 +25,7 @@ _type: Article
 ### 
 
 Master Every Area Of Your Life
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41649d416170cdb68f6b30f69a038c9daf6807aa.jpg)
 
 Hello, my name is Jamie Gordon and I'm a Certified DreamBuilder Coach.
 
