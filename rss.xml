@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JamieGordonLifeCoach]]></title>
         <description><![CDATA[JamieGordonLifeCoach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jamiegordonlifecoach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 15:10:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 15:17:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jamiegordonlifecoach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Master Every Area Of Your Life]]></title>
-            <description><![CDATA[<article><h1>Master Every Area Of Your Life</h1><p>Hello, my name is Jamie Gordon and I'm a Certified DreamBuilder Coach.</p></article>]]></description>
-            <link>undefinedjamie-gordon-certified-life-coach/index.html</link>
+            <description><![CDATA[<article><h1>Master Every Area Of Your Life</h1><p>Hello, my name is Jamie Gordon and I'm a Certified DreamBuilder Coach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c4548c183d70c5be79124cfed86deae546a9c77.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jamiegordonlifecoach/jamie-gordon-certified-life-coach/index.html</link>
             <guid isPermaLink="false">b005a5ec-cb22-49ec-9754-e0be4289c7f9</guid>
-            <pubDate>Tue, 12 Jan 2016 15:09:23 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 15:16:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
